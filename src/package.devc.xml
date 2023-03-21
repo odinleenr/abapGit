@@ -3,8 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <DEVC>
-    <CTEXT>online shop 109 - haand-on part 1</CTEXT>
-    <TPCLASS>X</TPCLASS>
+    <CTEXT>s4hana code migration to cloud 109</CTEXT>
    </DEVC>
   </asx:values>
  </asx:abap>
